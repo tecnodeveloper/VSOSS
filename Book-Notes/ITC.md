@@ -20,7 +20,7 @@
 
 ## Assumption
 
-- Programming language is like "recipes" Egg Example: first you have to known how to boil an egg then you can translate the recipe if you don't know how to boil the egg(problem solving) then its not the advantage to learn translation. Programming language does't tell you how to solve the problem.
+- Programming language is like "Egg" "Water" "Heat" Example: first you have to known how to "recipe of boiling" an egg then you can translate the recipe if you don't know how to boil the egg(problem solving) then its not the advantage to learn translation. Programming language does't tell you how to solve the problem.
 - Some programmer don't use program development tool like pseudocode They feel that their ultimate goal is to solve the problem on computer and that writing pseudocode merely delays the production of final output. Although this may work for simple and familiar problem, it can lead to serious errors and delay in large, complex project.
 - How do you calculate the square root? sqrt(36) or sqrt(35) first take assumption(means our program solve which kind of problem) then write algorithms if the problem is new to you then write start write pseudocode.
 - Programmer must take assumption first then write program, Assumption is on Output(interface) means user must input no between these numbers otherwise the program will be break that every number that is input by user must be assumption of programmer that user cannot put in (-) or exceed the maximum number avoids.
@@ -28,7 +28,15 @@
 
 ## ITC
 
+- Date 03/12/2024 starting date of course.
+- Was CS your first choice? If not CS, what was?
+    Yup, I love the field of CS, everything is changing in the computer science field after every second. New things to learn everyday. Its like marthon of seeking knowledge which never gets ending.
+- What do you want to do after BS?
+    I want to do job or internship after CS in web development. To do this i need to get high grade CGPA + enhance skill of BS.
 - Typing skill very important, So learn typing from start semester 1
+    1. Typing skill
+    2. sal;Docker
+    3. Communication and presentation skill
 - Move to linux its really helpfull for programmer or for many other reason or use it by vmware, virtual-box
 - How request are handled from computer to server
 - DNS stand for domain name system, it is userful for human to remember the name of website but backend they have ip addresses or physical address called MAC address
@@ -308,3 +316,9 @@ int main()
 - testing in python is very simple. testing code function must start with ` test_ `
 - Every execution of statement is called step | step into means go inside the function and show execution of every function body | step over means just give the output of function body | breakpoint stop the program and show the current state of program(Debugging)
 - ` __init__ ` is like constructor in python.
+
+
+## ITC Assignment & Work
+
+
+## ITC Project

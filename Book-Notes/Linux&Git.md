@@ -34,18 +34,6 @@
 - pwd just show you in which directory you are in. The path start from root folder.
 - Everything in linux is file. Every file is organized in hierarchical directory tree. The first directory named as `root` directory. root directory display with `/` forward slash in linux. The root folder has many files and folders.
 
-`
-/               <---(root)
-
-|-- bin         <---(subdirectory)
-|   |-- fil e1
-|   |-- file2
-|-- etc
-|   |-- directory3
-|-- home
-|-- var
-`
-
 
 
 
