@@ -1,0 +1,17 @@
+.flexbox {
+  display: flex;
+  font-size: 28px;
+  font-weight: bold;
+  gap: 12px;
+}
+.buttons {
+  margin: 14px;
+  padding: 22px;
+  border: 2px black solid;
+  background-color: burlywood;
+}
+
+.playing {
+  background-color: rgba(0, 0, 0, 0.167);
+  transform: scale(1, 1);
+}
